@@ -25,8 +25,20 @@ pnpm i
 
 ## Running
 
-I have a pre-prepared command to run this for ya.
+I have a pre-prepared command to run this for ya. If you want to run on the default case (a, bcdefg)
 
 ```
 pnpm solve
+```
+
+or
+
+```
+pnpm solve [required letters] [optional letters]
+```
+
+## Testing
+
+```
+pnpm test
 ```
