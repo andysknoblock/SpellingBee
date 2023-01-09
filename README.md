@@ -6,7 +6,7 @@ In the `solve.ts` file, you will see a function called `solve`. It takes a list 
 
 ## Prerequisites
 
-Install node - idk search it
+Install node - see if you can run `node --version`, if not, `brew install node`
 
 Install package manager - built in package manager is cringe, we use pnpm here. Try the command below, if it doesn't work, you don't have corepack, install it using `brew install corepack`.
 
